@@ -52,7 +52,7 @@
 			<jsp:include page="footer.jsp"></jsp:include>
 		</div>
 	</div>
-	<script type="text/javascript" src="//dapi.kakao.com/v2/maps/sdk.js?appkey=9234e36a207c8d4f664ad499c1f69d08&libraries=services"></script>
+	<script type="text/javascript" src="//dapi.kakao.com/v2/maps/sdk.js?appkey=8d47821d08c14a3b647e14eafa6ab215&libraries=services"></script>
 	<script type="text/javascript">
    Kakao.init('9234e36a207c8d4f664ad499c1f69d08');
 
